@@ -1,0 +1,27 @@
+1509341105818	geckodriver	INFO	geckodriver 0.18.0
+1509341105825	geckodriver	INFO	Listening on 127.0.0.1:46333
+1509341107853	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509341108098	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509341108589	Marionette	INFO	Enabled via --marionette
+[Parent 8636] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509341110716	Marionette	INFO	Listening on port 46339
+1509341110976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509341111054	Marionette	DEBUG	Register listener.js for window 4294967297
+1509341111105	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509341111259	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509341111260	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509341113667	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.panda.tv/s7"
+1509341122157	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.panda.tv/s7"
+1509341122527	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509341125901	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://s.h2.pdim.gs/static/a95703085a6b33e8.js, line 30: TypeError: n is null
+1509341166146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509341186450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+ed observer notification "outer-window-destroyed" for "6442450949"
+1509341090448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450950"
+1509341090449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450951"
+1509341090449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450959"
+1509341090450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450952"
+1509341090976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.panda.tv/s7"
+1509341092652	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.panda.tv/s7"
